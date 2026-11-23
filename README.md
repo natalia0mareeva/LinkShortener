@@ -71,4 +71,3 @@ mvn test
 
 ## CI/CD
 GitHub Actions автоматически собирает проект и запускает тесты при каждом push (см. .github/workflows/maven.yml).
-EOF
